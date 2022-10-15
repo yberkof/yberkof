@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/YOO07"><img src="https://api.daily.dev/devcards/3f75a4ec0893470f93fdfbb7ca3cb041.png?r=xj3" width="400" alt="yahia's Dev Card"/></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=yberkof)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://app.daily.dev/YOO07"><img src="https://api.daily.dev/devcards/3f75a4ec0893470f93fdfbb7ca3cb041.png?r=xj3" width="400" alt="yahia's Dev Card"/></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yberkof&show_icons=true&locale=en&layout=compact" alt="yberkof" /></p>
